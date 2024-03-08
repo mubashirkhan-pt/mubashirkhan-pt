@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mubashir khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width ="350" scr="https://repository-images.githubusercontent.com/549607090/35fb9901-a99b-4a7e-a796-7c80903781de">
+<img align="right" alt="coding" width ="350" scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2-6316AsXlPuIZNVMrlxlT&ust=1709999255068000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjnpOKB5YQDFQAAAAAdAAAAABAF">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubashirkhan-pt&label=Profile%20views&color=0e75b6&style=flat" alt="mubashirkhan-pt" /> </p>
 
