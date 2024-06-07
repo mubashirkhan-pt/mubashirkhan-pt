@@ -1,7 +1,7 @@
 [![Masterhead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1722470400&v=beta&t=cSgyHOROb7kTzx72GKWRVzADb7eTPks6bC9ncvv955Y)]
 <h1 align="center">Hi 👋, I'm Mubashir khan</h1>
 <h3 align="center">Building digital worlds where form meets function seamlessly.</h3>
- <img src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932" align="right" alt="Coding" width="400">
+ <img src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932" align="right" alt="Coding" width="325">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubashirkhan-pt&label=Profile%20views&color=0e75b6&style=flat" alt="mubashirkhan-pt" /> </p>
 
