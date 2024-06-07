@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubashirkhan-pt&label=Profile%20views&color=0e75b6&style=flat" alt="mubashirkhan-pt" /> </p>
 
-- 💬 Ask me about **C,html,css,& js**
+- 💬 Ask me about **C || Html || Css || Javascript || React || Redux **
 
 - 📫 How to reach me **mubashirkhan-pt@gmail.co**
 
